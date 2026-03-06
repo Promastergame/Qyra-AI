@@ -1,0 +1,1 @@
+"This is a sample text for training the tokenizer. Hello world! The quick brown fox jumps over the lazy dog."  

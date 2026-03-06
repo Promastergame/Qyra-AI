@@ -1,0 +1,47 @@
+# PyTorch checkpoints
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# IDE
+.vscode/
+.VSCodeCounter/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Training artifacts
+logs/
+runs/
+*.egg-info/
+
+# Data cache
+data/**/*.cache/
+data/*/.cache/
+.cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+*.tmp
